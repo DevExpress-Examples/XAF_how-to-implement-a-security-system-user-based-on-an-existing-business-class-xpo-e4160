@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Employee.cs](./CS/EmployeeAsUserExample.Module/BusinessObjects/Employee.cs) (VB: [Employee.vb](./VB/EmployeeAsUserExample.Module/BusinessObjects/Employee.vb))**
+* [EmployeeRole.cs](./CS/EmployeeAsUserExample.Module/BusinessObjects/EmployeeRole.cs) (VB: [EmployeeRole.vb](./VB/EmployeeAsUserExample.Module/BusinessObjects/EmployeeRole.vb))
+* [Updater.cs](./CS/EmployeeAsUserExample.Module/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/EmployeeAsUserExample.Module/DatabaseUpdate/Updater.vb))
+<!-- default file list end -->
 # How to: Implement a Security System User Based on an Existing Business Class (XPO)
 
 
